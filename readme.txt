@@ -1,0 +1,1 @@
+html color chart is located at html -color-codes.info
